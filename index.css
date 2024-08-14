@@ -81,7 +81,7 @@ nav button:hover {
 
 /* main */
 .hero {
-  background-image: url("./images/eCitizen-hero-banner-1.jpg");
+  background-image: url("./images/eCitizen-hero-banner-7.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   color: white;
@@ -164,7 +164,7 @@ nav button:hover {
   margin-right: 30px;
 }
 
-/* sections */
+/* sections -- agencies */
 
 /* MEDIA QUERIES -- responsive */
 @media (max-width: 1023px) {
